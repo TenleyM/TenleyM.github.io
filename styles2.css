@@ -1,3 +1,20 @@
 body{
-    background: red;
+    background-color:forestgreen;
+    font-family: cursive;
+    border-style: solid;
+    border-color: pink;
+    border-radius: 20pt;
+    border-width: 50pt;
+}
+img{
+    width: 400px;
+    border-radius: 10pt;
+    border-style: dotted;
+    margin-left: 10pt;  
+    padding: 10pt 10pt;
+}
+h1{
+    font-family: cursive;
+    color: #333333;
+    text-align: center;
 }
