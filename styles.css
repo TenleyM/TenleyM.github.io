@@ -1,14 +1,21 @@
 h1{
-    color:teal;
-    font-family: Arial, Helvetica, sans-serif;
+    color:navy;
+    font-family: 'Oswald', sans-serif;
     font-size: 40px;
+    font-weight: bold;
+}
+h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    font-weight: normal;
 }
 h3{
-    color: pink;
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+    font-size: 20px;
 }
 img{
     width: 300px;
-    border-color: tomato;
 }
 .jumbotron{
     background-image: url(hiking.JPG);
@@ -18,7 +25,31 @@ img{
 }
 .jumbotron2{
 background-color: #f8f9fa;
+padding-bottom: 5px;
 }
 .card{
-    font-family: Oswold;
+    font-family: 'Oswald', sans-serif;
+}
+h5{
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+p{
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+    font-size: 15px;
+
+}
+.table {
+    padding-top: 100pt;
+}
+.container{
+    padding-top: 8pt
+}
+.thead{
+    h5{
+        font-family: 'Oswald', sans-serif;
+        font-weight: bold;
+        font-size: 20px;
 }
